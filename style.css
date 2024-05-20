@@ -44,3 +44,18 @@ a {
     text-decoration: 0;
     color: rgba(247, 244, 244, 0.801)
 }
+
+.heroside {
+    display: flex;
+    flex-direction: column;
+}
+
+.imageside {
+    display: flex;
+    margin-left: auto;
+}
+
+img {
+    width: 250px;
+    height: auto;
+}
