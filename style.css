@@ -94,4 +94,36 @@ button {
     width: 80%;
     height: auto;
     margin: auto;
+    margin-bottom: 16px;
+}
+
+.white {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.bottomtitle {
+    justify-content: center;
+    font-size: 36px;
+    font-weight: 800;
+    color: #1F2937;
+    padding: 16px;
+}
+
+.imggroup {
+    display: flex;
+}
+
+.info {
+    display: flex;;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 16px;
+}
+
+.imgtext {
+    text-align: center;
+    margin-top: 16px;
+    margin-bottom: 72px;
 }
