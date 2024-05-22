@@ -146,3 +146,33 @@ button {
     text-align: right;
     padding-right: 400px;
 }
+
+.signupbg {
+    display: flex;
+    flex: 1;
+    justify-content: center;
+}
+
+.signupbox {
+    background-color: #3882F6;
+    color: #E5E7EB;
+    display: flex;
+    margin: 60px;
+    padding: 24px 72px;
+    width: 650px;
+    border-radius: 10px;
+}
+
+.signtext {
+    display: flex;
+    flex-direction: column;
+}
+
+.signtitle {
+    font-weight: 800;
+    padding-bottom: 8px;
+}
+
+.button2 {
+    margin-left: auto;
+}
