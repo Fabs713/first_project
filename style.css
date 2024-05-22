@@ -128,3 +128,21 @@ button {
     margin-top: 16px;
     margin-bottom: 72px;
 }
+
+.bigquote {
+    background-color: #E5E7EB;
+    color: #1F2937;
+    font-size: 36px;
+    font-style: italic;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote {
+    text-align: center;
+}
+
+.quoter {
+    text-align: right;
+    padding-right: 400px;
+}
