@@ -117,10 +117,18 @@ button {
 }
 
 .info {
-    display: flex;;
+    display: flex;
+    flex: 1;
     flex-wrap: wrap;
     justify-content: space-around;
     margin: 16px;
+}
+
+.img {
+    border-width: 3px;
+    border-style: solid;
+    border-color: #3882F6;
+    border-radius: 8px;
 }
 
 .imgtext {
