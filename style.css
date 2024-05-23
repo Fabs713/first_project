@@ -176,3 +176,13 @@ button {
 .button2 {
     margin-left: auto;
 }
+
+.footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+}
+
+.foottext {
+    padding: 24px;
+    text-align: center;
+}
